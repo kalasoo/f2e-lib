@@ -6,4 +6,7 @@
 ```
 font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft YaHei", "微软雅黑", SimSun, "宋体", Heiti, "黑体", sans-serif;
 ```
+```
+font-family: Helvetica, Tahoma, Arial, STXihei, \534E\6587\7EC6\9ED1, "Microsoft YaHei", \5FAE\8F6F\96C5\9ED1, SimSun, \5B8B\4F53, Heiti, \9ED1\4F53, sans-serif;
+```
 - [你未必知道的CSS故事：揭开leading的面纱](http://www.ituring.com.cn/article/18076)
