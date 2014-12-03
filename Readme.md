@@ -1,6 +1,13 @@
 F2E
 ============
 
+### 一些统计数据
+
+- [百度数据](http://tongji.baidu.com/data/browser)
+- [CNZZ数据](http://brow.data.cnzz.com/)
+- [腾讯大数据](http://data.qq.com/)
+
+
 ### devdocs
 
 [devdocs(EN)](http://devdocs.io/)
